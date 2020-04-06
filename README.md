@@ -23,7 +23,7 @@ Include Thirdweb in your website via a `<script>` tag:
 
 ## Changelog
 
-The Firebase changelog can be found at
+The Thirdweb changelog can be found at
 [somewhere](https://thirdweb.co).
 
 ## Browser/environment compatibility
